@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'r/dev',
       icon: 'trello',
-      link: 'https://todoist.com',
+      link: 'https://www.reddit.com/r/dev/',
     },
     {
       id: '4',
@@ -88,26 +88,26 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Core',
+        link: 'https://www.youtube.com/@CoreDasAntigas',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Diolinux',
+        link: 'https://www.youtube.com/@Diolinux',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'ManoDeyvin',
+        link: 'https://www.youtube.com/@manodeyvin',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Psych2GoPortuguesBR',
+        link: 'https://www.youtube.com/@Psych2GoPortuguesBR',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'r/unixporn',
+        link: 'https://www.reddit.com/r/unixporn/',
       },
       {
         name: 'Figma',
