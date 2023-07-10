@@ -17,13 +17,13 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
+  greetingMorning: 'Good morning,',
+  greetingAfternoon: 'Good afternoon, Passing the time?',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Oyasumi nasai!',
+  greetingNight: 'So what we`re going to overnight today?',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456', // Todo
+  weatherKey: '2b35e8147a663a56ae1bd0b5d8d3ea50', // Todo
   weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -53,7 +53,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'r/dev',
-      icon: 'reddit',
+      icon: '',
       link: 'https://www.reddit.com/r/dev/',
     },
     {
