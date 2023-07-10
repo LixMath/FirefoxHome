@@ -53,7 +53,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'r/dev',
-      icon: 'trello',
+      icon: 'reddit',
       link: 'https://www.reddit.com/r/dev/',
     },
     {
@@ -82,7 +82,7 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'coffee',
-  secondListIcon: 'work',
+  secondListIcon: '',
 
   // Links
   lists: {
