@@ -110,16 +110,16 @@ const CONFIG = {
         link: 'https://www.reddit.com/r/unixporn/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'r/cybersecurity',
+        link: 'https://www.reddit.com/r/cybersecurity/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Google-Classroom',
+        link: 'https://classroom.google.com/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Redação Paraná',
+        link: 'http://www.escoladigital.aluno.pr.gov.br/redacao_parana#',
       },
     ],
   },
