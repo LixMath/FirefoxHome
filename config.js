@@ -53,7 +53,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'r/dev',
-      icon: 'codeblock',
+      icon: 'coffee',
       link: 'https://www.reddit.com/r/dev/',
     },
     {
